@@ -1,0 +1,11 @@
+section {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+h2 {
+    display: flex;
+    font-size: 2.5rem;
+    align-self: center;
+}
