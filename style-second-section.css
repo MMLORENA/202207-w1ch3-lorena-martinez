@@ -9,3 +9,15 @@ h2 {
     font-size: 2.5rem;
     align-self: center;
 }
+
+button {
+    color: white;
+    display: flex;
+    align-self: center;
+    background-color: orange;
+    width: fit-content;
+    border: 0.5rem solid orange;
+    border-color: orange;
+    border-radius: 00.7rem;
+    border-top-left-radius: 0;
+}
