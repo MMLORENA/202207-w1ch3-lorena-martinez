@@ -2,11 +2,8 @@ body {
     font-family: nunito, sans-serif;
 }
 
-section {
-    display: flex;
-}
 h1 {
     color: orange;
-    font-size: 1 rem;
-    align-self: center;
+    font-size: 1 rem; /*no funciona*/
+    text-align: center;
 }
